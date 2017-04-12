@@ -1,4 +1,4 @@
-# Multi-level-Cache-Simulator
+Multi-level-Cache-Simulator
 
 a1-A has a single-core 1-level cache simulator
 a1-B has a single-core 2-level cache simulator
